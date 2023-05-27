@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ivpavlovic/ivocars.github.io.git/static/css/main.2a2e4678.css",
+    "main.js": "/ivpavlovic/ivocars.github.io.git/static/js/main.049beb32.js",
+    "index.html": "/ivpavlovic/ivocars.github.io.git/index.html",
+    "main.2a2e4678.css.map": "/ivpavlovic/ivocars.github.io.git/static/css/main.2a2e4678.css.map",
+    "main.049beb32.js.map": "/ivpavlovic/ivocars.github.io.git/static/js/main.049beb32.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a2e4678.css",
+    "static/js/main.049beb32.js"
+  ]
+}
